@@ -22,10 +22,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361dafb?style=flat-square&logo=react&logoColor=white">
 </span>
 
-### My GitHub Contributions
-
-![](https://tyvekzhang.github.io/tyvekzhang/github-contribution-grid-snake.svg)
-
 ### My GitHub Stats
 
 <div align="left">
