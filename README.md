@@ -9,7 +9,7 @@
 - 🔭 I'm a passionate software developer with dreams of changing the world.
 - 💡 I have a strong interest in automation, architectural design, cloud-native technologies, and AI.
 - 🌱 I currently reside in Hangzhou, China.
-- 📫 How to reach me: tyvekzhang@gmail.com.
+- 📫 Please feel free to email me if you have any questions: tyvekzhang@gmail.com.
 
 
 ### Languaues and Tools
@@ -21,6 +21,10 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361dafb?style=flat-square&logo=react&logoColor=white">
 </span>
+
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/tyvekzhang/tyvekzhang/output/github-contribution-grid-snake.svg)
 
 ### My GitHub Stats
 
