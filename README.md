@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5194F0&width=835&lines=Do what you love and do what you should do&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5194F0&width=635&lines=Do what you love and do what you should do !&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
 
