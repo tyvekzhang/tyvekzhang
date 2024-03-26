@@ -29,6 +29,5 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tyvekzhang&show_icons=true" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyvekzhang&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
