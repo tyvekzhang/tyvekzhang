@@ -8,7 +8,6 @@
 
 - 🔭 I'm a passionate software developer with dreams of changing the world.
 - 💡 I have a strong interest in automation, architectural design, cloud-native technologies, and AI.
-- 🌱 I currently reside in Hangzhou, China.
 - 📫 Please feel free to email me if you have any questions: tyvekzhang@gmail.com.
 
 
