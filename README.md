@@ -21,3 +21,6 @@
 
 ### My GitHub Stats
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tyvekzhang&show_icons=true" /> 
+</div>
